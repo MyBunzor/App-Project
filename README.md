@@ -3,6 +3,8 @@
 
 Often times, when planning dinner with people, there's a lot of effort wasted into clarifying who joins for dinner, who prepares dinner and what's to be eaten. This android application hopefully resolves alot of that effort. With it, users are able to share whether they join for dinner in a group(this could be people living together, a group of friends) and who cooks.   
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100
+
 This is the basic structure of the app. Once this is implemented, the application could be extended by adding other features, such as keeping track of finances, who cooks or other even adding recipes on which users can vote. The basic structure has a homescreen, which could look like this: 
 
 ![Image of 'Wefood' homescreen](https://github.com/MyBunzor/App-Project/blob/master/docs/homescreen%20app.jpeg | width = 100)
