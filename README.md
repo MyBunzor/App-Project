@@ -5,7 +5,7 @@ Often times, when planning dinner with people, there's a lot of effort wasted in
 
 This is the basic structure of the app. Once this is implemented, the application could be extended by adding other features, such as keeping track of finances, who cooks or other even adding recipes on which users can vote. The basic structure has a homescreen, which could look like this: 
 
-![Image of 'Wefood' homescreen](https://github.com/MyBunzor/App-Project/blob/master/docs/homescreen%20app.jpeg)
+![Image of 'Wefood' homescreen](https://github.com/MyBunzor/App-Project/blob/master/docs/homescreen%20app.jpeg =250x250)
 
 In this homescreen, the planned dinners for the user are visible and the user is able to create a new dinnerdate. This is done by clicking on the plus button. That will lead an activity in which the user has to pick dates on which the dinner can be held (and invited users have to pick from):
 
